@@ -4,7 +4,7 @@
   "version": "1.0.0",
   "description": "A js library for displaying arrays of objects in tabular format.",
   "main": "./dist/utils.js",
-  "keywords": ["object", "arrays of objects", "table"],
+  "keywords": ["object", "arrays of objects", "objects", "table"],
   "homepage": "https://github.com/kismts/sql-select-utils#readme",
   "repository": {
     "type": "git",
