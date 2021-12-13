@@ -1,3 +1,4 @@
+/// <reference path="./utils.d.ts" />
 const _slice = (xs, start, end) => xs.slice(start, end);
 const len = xs => xs.length;
 const keys = Object.keys;
